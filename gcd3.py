@@ -36,15 +36,7 @@ def sieve(n):
 
 print sieve(31)
 
-#def is_prime(x):
- #       if x == 0 or x == 1:
-  #              return 'No'
-   #     else:
-    #            for i in range(1,x-1):
-     #                   if x % i == 0:
-      #                          return 'No'
-       #                 else:
-        #                        return 'Yes'
+
 
 
 
